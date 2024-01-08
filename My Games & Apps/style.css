@@ -1,0 +1,12 @@
+.line{
+    width: 70px;
+    height: 8px;
+    color: rgb(32, 240, 0);
+}
+img{
+    width: 300px;
+    height: auto;
+}
+body{
+    background: linear-gradient(#4c00ff 0%, #02fc02 100%);
+}
